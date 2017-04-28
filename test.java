@@ -5,7 +5,7 @@ class test
 
 	{
 
-		System.out.println("This is git modified file");
+		System.out.println("This is git modified file for third commit");
 
 	}
 }
